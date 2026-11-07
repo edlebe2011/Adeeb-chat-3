@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996388204850",
+    "project_id": "adeeb-chat",
+    "storage_bucket": "adeeb-chat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996388204850:android:72621c5c88a20eb44de72b",
+        "android_client_info": {
+          "package_name": "com.adeeb.adeeb_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5yJNA6sfS9aHr3B3oM7Ek--Vg3wSaOBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
